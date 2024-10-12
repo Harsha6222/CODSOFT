@@ -1,7 +1,7 @@
 # CodSoft Internship Projects
 Welcome to my CodSoft Internship Projects repository! This repository contains the tasks I completed as part of my virtual educational internship at CodSoft, focusing on C++ programming.
 
-Overview
+Overview :
 As part of the CodSoft internship, I was assigned a series of tasks to enhance my skills in C++ programming. In this repository, you'll find the projects I worked on during the internship.
 
 Completed Tasks:
@@ -24,5 +24,5 @@ Each task is organized into its own directory, containing the source code, docum
 
 /Task4_ToDoList
 
-Acknowledgements
+Acknowledgements :
 A big thank you to CodSoft for this great learning opportunity! I’m excited to continue applying these skills to future projects.
