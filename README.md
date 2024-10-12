@@ -5,6 +5,7 @@ Overview
 As part of the CodSoft internship, I was assigned a series of tasks to enhance my skills in C++ programming. In this repository, you'll find the projects I worked on during the internship.
 
 Completed Tasks:
+
 Task 1: Number Guessing Game
 A fun interactive game where the player has to guess a randomly generated number within a given range.
 
@@ -18,7 +19,9 @@ Project Structure
 Each task is organized into its own directory, containing the source code, documentation, and sample outputs for reference.
 
 /Task1_NumberGuessingGame
+
 /Task2_Calculator
+
 /Task4_ToDoList
 
 Acknowledgements
