@@ -18,11 +18,6 @@ A simple console-based to-do list application that allows users to add, remove, 
 Project Structure
 Each task is organized into its own directory, containing the source code, documentation, and sample outputs for reference.
 
-/Task1_NumberGuessingGame
-
-/Task2_Calculator
-
-/Task4_ToDoList
 
 Acknowledgements :
 A big thank you to CodSoft for this great learning opportunity! I’m excited to continue applying these skills to future projects.
