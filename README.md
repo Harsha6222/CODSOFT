@@ -12,6 +12,9 @@ A fun interactive game where the player has to guess a randomly generated number
 Task 2: Simple Calculator
 A basic calculator program that performs arithmetic operations like addition, subtraction, multiplication, and division.
 
+Task - 3: Tic-Tac-Toe Game
+A console-based Tic-Tac-Toe game for two players, where they take turns marking a 3x3 grid with "X" and "O." The game checks for wins or draws and allows players to play multiple rounds.
+
 Task 4: To-Do List
 A simple console-based to-do list application that allows users to add, remove, and manage their tasks efficiently.
 
